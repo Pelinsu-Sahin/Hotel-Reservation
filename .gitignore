@@ -1,0 +1,32 @@
+# Ignore build output and temporary files
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.dll
+*.pdb
+*.exe
+
+# Ignore user settings and cache
+*.cache
+*.log
+*.csproj.user
+*.db
+
+# Ignore local environment files
+.env
+secrets.json
+
+# Ignore database and migrations
+Migrations/
+*.mdf
+*.ldf
+
+# Ignore package dependencies
+packages/
+node_modules/
+
+# Ignore macOS and Linux system files
+.DS_Store
+Thumbs.db
