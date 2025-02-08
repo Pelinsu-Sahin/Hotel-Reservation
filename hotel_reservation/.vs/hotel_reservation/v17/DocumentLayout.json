@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\projects_.net\\Hotel-Reservation\\hotel_reservation\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AAE00FD9-479F-4ED6-9102-705D0AD50A83}|ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|e:\\projects_.net\\hotel-reservation\\hotel_reservation\\apiconsume\\hotelproject.dataaccesslayer\\hotelproject.dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AAE00FD9-479F-4ED6-9102-705D0AD50A83}|ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|solutionrelative:apiconsume\\hotelproject.dataaccesslayer\\hotelproject.dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40E6973-BABC-4CF9-819D-410400684551}|ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj|e:\\projects_.net\\hotel-reservation\\hotel_reservation\\apiconsume\\hotelproject.entitylayer\\concrete\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40E6973-BABC-4CF9-819D-410400684551}|ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj|solutionrelative:apiconsume\\hotelproject.entitylayer\\concrete\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C40E6973-BABC-4CF9-819D-410400684551}|ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj|e:\\projects_.net\\hotel-reservation\\hotel_reservation\\apiconsume\\hotelproject.entitylayer\\concrete\\subscribe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C40E6973-BABC-4CF9-819D-410400684551}|ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj|solutionrelative:apiconsume\\hotelproject.entitylayer\\concrete\\subscribe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C40E6973-BABC-4CF9-819D-410400684551}|ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj|e:\\projects_.net\\hotel-reservation\\hotel_reservation\\apiconsume\\hotelproject.entitylayer\\concrete\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C40E6973-BABC-4CF9-819D-410400684551}|ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj|solutionrelative:apiconsume\\hotelproject.entitylayer\\concrete\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C40E6973-BABC-4CF9-819D-410400684551}|ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj|e:\\projects_.net\\hotel-reservation\\hotel_reservation\\apiconsume\\hotelproject.entitylayer\\concrete\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C40E6973-BABC-4CF9-819D-410400684551}|ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj|solutionrelative:apiconsume\\hotelproject.entitylayer\\concrete\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D0F918C-13D4-4788-8EF6-F2BD9C98A04C}|ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj|e:\\projects_.net\\hotel-reservation\\hotel_reservation\\apiconsume\\hotelproject.dtolayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,6 +55,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HotelProject.DataAccessLayer",
+              "DocumentMoniker": "E:\\projects_.net\\Hotel-Reservation\\hotel_reservation\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj",
+              "ToolTip": "E:\\projects_.net\\Hotel-Reservation\\hotel_reservation\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj",
+              "RelativeToolTip": "ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-08T14:46:30.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Subscribe.cs",
               "DocumentMoniker": "E:\\projects_.net\\Hotel-Reservation\\hotel_reservation\\ApiConsume\\HotelProject.EntityLayer\\Concrete\\Subscribe.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProject.EntityLayer\\Concrete\\Subscribe.cs",
@@ -63,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Staff.cs",
               "DocumentMoniker": "E:\\projects_.net\\Hotel-Reservation\\hotel_reservation\\ApiConsume\\HotelProject.EntityLayer\\Concrete\\Staff.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProject.EntityLayer\\Concrete\\Staff.cs",
@@ -76,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Testimonial.cs",
               "DocumentMoniker": "E:\\projects_.net\\Hotel-Reservation\\hotel_reservation\\ApiConsume\\HotelProject.EntityLayer\\Concrete\\Testimonial.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProject.EntityLayer\\Concrete\\Testimonial.cs",
@@ -89,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Service.cs",
               "DocumentMoniker": "E:\\projects_.net\\Hotel-Reservation\\hotel_reservation\\ApiConsume\\HotelProject.EntityLayer\\Concrete\\Service.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProject.EntityLayer\\Concrete\\Service.cs",
@@ -102,20 +119,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Room.cs",
               "DocumentMoniker": "E:\\projects_.net\\Hotel-Reservation\\hotel_reservation\\ApiConsume\\HotelProject.EntityLayer\\Concrete\\Room.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProject.EntityLayer\\Concrete\\Room.cs",
               "ToolTip": "E:\\projects_.net\\Hotel-Reservation\\hotel_reservation\\ApiConsume\\HotelProject.EntityLayer\\Concrete\\Room.cs",
               "RelativeToolTip": "ApiConsume\\HotelProject.EntityLayer\\Concrete\\Room.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-08T13:13:46.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Class1.cs",
               "DocumentMoniker": "E:\\projects_.net\\Hotel-Reservation\\hotel_reservation\\ApiConsume\\HotelProject.DtoLayer\\Class1.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProject.DtoLayer\\Class1.cs",
@@ -128,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Class1.cs",
               "DocumentMoniker": "E:\\projects_.net\\Hotel-Reservation\\hotel_reservation\\ApiConsume\\HotelProject.BusinessLayer\\Class1.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProject.BusinessLayer\\Class1.cs",
@@ -136,11 +153,12 @@
               "RelativeToolTip": "ApiConsume\\HotelProject.BusinessLayer\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T15:17:34.162Z"
+              "WhenOpened": "2025-02-06T15:17:34.162Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Class1.cs",
               "DocumentMoniker": "E:\\projects_.net\\Hotel-Reservation\\hotel_reservation\\ApiConsume\\HotelProject.DataAccessLayer\\Class1.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProject.DataAccessLayer\\Class1.cs",
@@ -148,7 +166,8 @@
               "RelativeToolTip": "ApiConsume\\HotelProject.DataAccessLayer\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T15:16:48.541Z"
+              "WhenOpened": "2025-02-06T15:16:48.541Z",
+              "EditorCaption": ""
             }
           ]
         }
