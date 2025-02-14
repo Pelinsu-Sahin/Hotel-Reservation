@@ -30,3 +30,5 @@ node_modules/
 # Ignore macOS and Linux system files
 .DS_Store
 Thumbs.db
+
+*.dtbcache.v2
