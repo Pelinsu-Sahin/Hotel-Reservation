@@ -31,8 +31,14 @@ node_modules/
 .DS_Store
 Thumbs.db
 
-*.dtbcache.v2
 # Ignore Visual Studio build files
 obj/
 bin/
 *.cache
+
+# Ignore Visual Studio folder
+.vs/
+
+# Ignore design-time cache files
+*.dtbcache.v2
+
