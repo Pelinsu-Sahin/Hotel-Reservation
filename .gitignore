@@ -1,44 +1,132 @@
-# Ignore build output and temporary files
-bin/
-obj/
+# =========================
+# Visual Studio and .NET
+# =========================
 .vs/
-*.user
 *.suo
-*.dll
-*.pdb
-*.exe
-
-# Ignore user settings and cache
+*.user
+*.userosscache
+*.sln.docstates
 *.cache
 *.log
 *.csproj.user
 *.db
+*.db-shm
+*.db-wal
+*.bak
+*.old
 
-# Ignore local environment files
+# =========================
+# Build and Output Files
+# =========================
+bin/
+obj/
+*.dll
+*.pdb
+*.exe
+*.appx
+*.appxsym
+*.msi
+*.zip
+*.tar.gz
+*.publish/
+**/publish/
+**/out/
+*.swp
+
+# =========================
+# Design-Time and Cache Files
+# =========================
+*.dtbcache.v2
+*.futdcache.v2
+*.futdcache
+*.pidb
+*.svclog
+*.tmp
+*.ide
+*.tlog
+*.vsp
+*.vscode/
+.project/
+.idea/
+*.VC.db
+
+# =========================
+# Environment and Secrets
+# =========================
 .env
+*.env.local
+*.env.development
+*.env.production
 secrets.json
 
-# Ignore database and migrations
+# =========================
+# Package Managers
+# =========================
+node_modules/
+packages/
+npm-debug.log*
+yarn.lock
+pnpm-lock.yaml
+
+# =========================
+# Database and Migrations
+# =========================
 Migrations/
 *.mdf
 *.ldf
+*.sqlite
+*.bak
+*.db-journal
 
-# Ignore package dependencies
-packages/
-node_modules/
-
-# Ignore macOS and Linux system files
+# =========================
+# macOS and Linux
+# =========================
 .DS_Store
 Thumbs.db
+*.AppleDouble
+._*
 
-# Ignore Visual Studio build files
-obj/
-bin/
+# =========================
+# IDE Configuration
+# =========================
+*.vscode/
+*.code-workspace
+*.editorconfig
+.idea/
+*.iml
+
+# =========================
+# Logs and Temp Files
+# =========================
+*.log
+*.tmp
 *.cache
+*.bak
+*.swp
+*.err
+*.~*
 
-# Ignore Visual Studio folder
-.vs/
+# =========================
+# Testing and Coverage
+# =========================
+coverage/
+*.coverage
+*.testresults/
+TestResults/
+.trx
+*.cobertura.xml
+lcov-report/
 
-# Ignore design-time cache files
-*.dtbcache.v2
+# =========================
+# Docker
+# =========================
+docker-compose.override.yml
+.dockerignore
+**/.docker/
 
+# =========================
+# Git
+# =========================
+.git/
+!.gitkeep
+*.orig
