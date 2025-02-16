@@ -9,7 +9,7 @@ using HotelProject.EntityLayer.Concrete;
 
 namespace HotelProject.BusinessLayer.Concrete
 {
-    internal class SubscribeManager : ISubscribeService
+    public class SubscribeManager : ISubscribeService
     {
         private ISubscribeDal _subscribeDal;
 
